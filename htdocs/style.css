@@ -1,0 +1,85 @@
+
+.ico1{
+    background-image: url(전구.ico);
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    background-repeat: repeat;
+
+}
+
+.bgcolor{
+    width:95%;
+    background-color: white;
+    border-radius:11px;
+    margin-left:2%;
+    margin-top:1%;
+}
+
+.block1{
+    background-color: #CBE9AC;
+    width: 37%;
+    height: 30px;
+    border-radius:15px;
+}
+
+.font1{
+    font-family: fantasy;
+    font-size:70px;
+    text-shadow: -1px 0px black, 0px 1px black, 1px 0px black, 0px -1px black;
+    text-align: center;
+}
+
+body{
+    background-color: #FFE8BE;
+    background-size: cover;
+}
+
+section{
+  font-size: 27px;
+  width: 500px;
+  height: 700px;
+  border: 3px solid black;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1%;
+  border-radius:11px;
+}
+#test1:hover{
+        background-image: url(좋아하는게임.jpg);
+        width: 601px;
+        height: 336px;
+        background-repeat: no-repeat;
+        /* 마우스 오버시 이미지나옴, background-repeat: no-repeat; 이미지 반복안함 */
+    }
+.aside2{
+    width: 900px;
+    height: 320px;
+    font-size: 23px;
+    border: 3px solid black;
+    margin-right: 7%;
+}
+
+.aside0{
+    width: 900px;
+    height: 320px;
+    font-size: 23px;
+    border: 3px solid black;
+    margin-right: 7%;
+}
+
+.aside1{
+    float:left;
+}
+
+button{
+    width: 70px;
+    height: 70px;
+    border: 1px solid black;
+    border-radius: 11%; 
+    background-color: black;
+    color: white;
+    /* 지우면 사라짐 */
+    font-size: 12px;
+    text-align: center;
+}
